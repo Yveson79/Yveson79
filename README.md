@@ -1,4 +1,5 @@
 Yveson
+
 About Me
 Hi! I'm Yveson 👨‍💻, a self-taught programmer with a deep interest in technology, artificial intelligence, and the open-source world. I began my coding journey over 11 years ago with a Python book 📘, eventually building bots for automating trades in the financial market 💹 — always driven by curiosity and experimentation 🧠.
 
